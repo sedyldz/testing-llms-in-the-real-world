@@ -79,4 +79,4 @@ to build an automatic testing workflow for your LLM app.
 
 Join more than 10k subscribers to the Real-World ML Newsletter. Every Saturday morning.
 
-[👉🏽 Click to subscribe](https://www.realworldml.xyz/subscribe)
+[👉🏽 Click to subscribe](https://www.realworldml.net/subscribe)
